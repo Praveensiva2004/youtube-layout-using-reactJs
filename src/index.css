@@ -1,0 +1,69 @@
+
+.icons{
+  display:grid;
+  background-color: black;
+}
+.icon{
+  height:100px;
+  width:100px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  color:white;
+  padding-left: 15px;
+  padding-right: 10px;
+}
+.image{
+  height: 50px;
+  width:50px;
+  margin-bottom: 0;
+  cursor: pointer;
+}
+p{
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 0;
+  font-size: 25px;
+  justify-content: center;
+  color:aqua;
+  cursor: pointer;
+}
+.layout{
+  display: flex;
+}
+.tubelogo{
+  padding: 20px;
+  height: 100px;
+  width: 100px;
+  color: red;
+}
+.header{
+  display: flex;
+}
+h2{
+  margin-top: 50px;
+  margin-left: 40px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+}
+input{
+  height: 30px;
+  width: 400px;
+  margin-top: 55px;
+  margin-left: 300px;
+  margin-right: 320px;
+  border-radius: 15px;
+}
+.video{
+  height: 500px;
+  width:300px;
+  padding-left: 50px;
+  padding-right: 30px;
+  margin-top: -50px;
+  margin-bottom: -150px;
+}
+.videos{
+  display: flex;
+}
+h5{
+  padding-left: 50px;
+  font-size: 20px;
+}
